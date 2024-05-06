@@ -1,6 +1,6 @@
 # Project - Duty List
 
-Important: Install dependencies by running `npm install` in project directory
+Important: Install dependencies by running `npm install` in project directory.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
